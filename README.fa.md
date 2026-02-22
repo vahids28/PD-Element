@@ -124,7 +124,7 @@
 ## 🚀 نصب سریع
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Mehdi682007/PD-Element/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/vahids28/PD-Element/main/install.sh)
 ```
 
 ---
