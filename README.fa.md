@@ -131,7 +131,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vahids28/PD-Element/main/insta
 
 ## 📌 نسخه فعلی
 
-**Version: 1.4**
+**Version: 1.5**
 
 ---
 
